@@ -1,0 +1,45 @@
+#mePic {
+  height:375px;
+  width: 300px;
+  border-radius: 30px;
+}
+
+#summary {
+  float:right; display:inline; width: 58%;
+  margin-left: 3px;
+}
+
+.centerDiv {
+  margin: auto;
+  width: 50%;
+}
+
+@font-face {
+  font-family: "Russo One";
+  src: url("https://fonts.googleapis.com/css?family=Russo+One")
+}
+
+#simonText {
+  font-family: "Russo One";
+  font-size: 30px;
+}
+
+@font-face {
+  font-family: 'Galada', cursive;
+  src: url("https://fonts.googleapis.com/css?family=Galada")
+}
+
+#paloriesText {
+  font-family: 'Galada', cursive;
+  font-size: 30px;
+}
+
+@font-face {
+  font-family: 'Modak', cursive;
+  src: url("https://fonts.googleapis.com/css?family=Modak")
+}
+
+#newslyText {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
+}

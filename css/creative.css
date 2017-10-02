@@ -9,7 +9,7 @@ html {
   height: 100%; }
 
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
+  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;}
 
 hr {
   max-width: 50px;
@@ -147,7 +147,7 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/graffiti.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
